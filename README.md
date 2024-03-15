@@ -9,7 +9,7 @@ dado 1 (x)
 dado 2 (x)
 
 # Diseño 
-[diagrama de flujo](diagrama.png "diagrama de flujo")
+![diagrama de flujo](diagrama.png "diagrama de flujo")
 
 # Construccion
 hacer un programa que use el sistema de numeros aleatorios 
